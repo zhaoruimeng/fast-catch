@@ -4,6 +4,7 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/zhaoruimeng/fast-catch/releases
 
 ## 快速使用
 
