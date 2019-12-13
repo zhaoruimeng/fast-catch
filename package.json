@@ -1,6 +1,6 @@
 {
   "name": "fast-catch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "前端缓存工具，防止内存泄漏",
   "main": "src/index.js",
   "scripts": {
